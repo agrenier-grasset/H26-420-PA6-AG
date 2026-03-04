@@ -3,4 +3,5 @@
   <Project Path="cours2/cours2.csproj" />
   <Project Path="cours3/cours3.csproj" />
   <Project Path="cours4/cours4.csproj" />
+  <Project Path="cours5/cours5.csproj" />
 </Solution>
