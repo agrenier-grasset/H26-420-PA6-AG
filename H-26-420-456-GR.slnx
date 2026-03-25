@@ -4,4 +4,5 @@
   <Project Path="cours3/cours3.csproj" />
   <Project Path="cours4/cours4.csproj" />
   <Project Path="cours5/cours5.csproj" />
+  <Project Path="cours6/cours6.csproj" Id="91bb14db-e01b-470c-aa18-5dde78313581" />
 </Solution>

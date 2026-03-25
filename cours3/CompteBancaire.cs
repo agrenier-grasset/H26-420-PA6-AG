@@ -1,5 +1,3 @@
-using System;
-
 class CompteBancaire
 {
     private decimal solde = 100;

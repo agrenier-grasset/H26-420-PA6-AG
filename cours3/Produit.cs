@@ -1,5 +1,3 @@
-using System;
-
 class Produit
 {
     public string Nom { get; set; }

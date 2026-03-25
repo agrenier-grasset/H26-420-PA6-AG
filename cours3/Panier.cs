@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
 class Panier
 {
     private List<ProduitAvecPrixPrive> produits = new List<ProduitAvecPrixPrive>();

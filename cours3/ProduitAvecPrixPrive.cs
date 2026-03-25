@@ -1,5 +1,3 @@
-using System;
-
 class ProduitAvecPrixPrive
 {
     public string Nom { get; set; }
